@@ -42,7 +42,7 @@ In this exercise you will:
 1. From your local shell (WSL, macOS Terminal, or Linux), log into the `vorlesungsserver` (or any other remote machine of your choice, e.g. your own raspberry pi):
 
    ```bash
-   ssh youruser@remotehost
+   ssh -v youruser@remotehost
    ```
 2. Carefully observe and note each step:
 
